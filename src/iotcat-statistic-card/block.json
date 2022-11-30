@@ -1,0 +1,51 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "unparallel/statistic-card",
+	"version": "1.0.0",
+	"title": "Statistic Card",
+	"category": "iot-catalogue",
+	"icon": "tag",
+	"description": "Renders a statistic card about a specific element",
+	"attributes": {
+		"image": {
+			"type": "string"
+		},
+		"title": {
+			"type": "string"
+		},
+		"endpoint": {
+			"type": "string"
+		},
+		"valueColor": {
+			"type": "string"
+		},
+		"titleColor": {
+			"type": "string"
+		},
+		"valueFontSize": {
+			"type": "string",
+			"default": "30px"
+		},
+		"titleFontSize": {
+			"type": "string",
+			"default": "11px"
+		},
+		"countMethod": {
+			"type": "string"
+		},
+		"category": {
+			"type": "string"
+		},
+		"postType": {
+			"type": "string"
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "gutenpride",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
