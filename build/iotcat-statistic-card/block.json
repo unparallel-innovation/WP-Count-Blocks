@@ -4,7 +4,7 @@
   "name": "unparallel/statistic-card",
   "version": "1.0.0",
   "title": "Statistic Card",
-  "category": "iot-catalogue",
+  "category": "dynamic-blocks",
   "icon": "tag",
   "description": "Renders a statistic card about a specific element",
   "attributes": {

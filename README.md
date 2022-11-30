@@ -13,18 +13,22 @@ This plugin has the following blocks included:
 
 ## Usage
 ### Statistic Card
-To add a new Statistic Card, you must search for it in Wordpress Editor. After that you will see something like this:
-![](public/img/readme-pictures/statistic_card.png)
+To add a new Statistic Card, you must search for 'dynamic blocks' in Wordpress Editor:
+![](public/img/readme-pictures/statistic_card_search.png)
+
+After that you will see something like this:
+![](public/img/readme-pictures/statistic_card_input.png)
 
 In "Title" textbox you must set the element title.
 
-And in block options (in right panel), you can upload an icon image, set value color, set title color and set the endpoint that will get the total number of a specific element:
+And in block options (in right panel), you can upload an icon image, set value color, set title color and set the endpoint that will get the count you want to show:
 
 ![](public/img/readme-pictures/statistic_card_options.png)
 
 ## Credits
 This repository has been created by:
-Pedro Ferreira [pedro.ferreira@unparallel.pt](mailto:marcio.mateus@unparallel.pt)
+
+Pedro Ferreira [pedro.ferreira@unparallel.pt](mailto:pedro.ferreira@unparallel.pt)
 
 ## License
 The code in ths repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
