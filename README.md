@@ -25,10 +25,5 @@ And in block options (in right panel), you can upload an icon image, set value c
 
 ![](public/img/readme-pictures/statistic_card_options.png)
 
-## Credits
-This repository has been created by:
-
-Pedro Ferreira [pedro.ferreira@unparallel.pt](mailto:pedro.ferreira@unparallel.pt)
-
 ## License
 The code in ths repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
