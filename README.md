@@ -12,6 +12,7 @@ This plugin has the following blocks included:
 - Statistic Card: this block allows to show the count about a specific element
 
 ## Usage
-To add a new Statistic Card, you must search for it in Wordpress Editor.
+To add a new Statistic Card, you must search for it in Wordpress Editor. After that you will see something like this:
+![](public/img/readme-pictures/statistic_card.png)
 
 
