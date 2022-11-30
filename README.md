@@ -18,5 +18,5 @@ To add a new Statistic Card, you must search for it in Wordpress Editor. After t
 In "Title" textbox you must set the element title.
 
 In block options (in right panel), you can upload an icon image, set value color, set title color and set the endpoint that will get the total number of a specific element:
-![](public/img/readme-pictures/statistic_card_options.png.png)
+![](public/img/readme-pictures/statistic_card_options.png)
 
