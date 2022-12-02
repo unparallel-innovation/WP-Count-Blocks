@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       WP Dynamic Blocks
- * Description:       Display content in Wordpress with dynamic blocks
+ * Plugin Name:       WP Count Blocks
+ * Description:       Display content in Wordpress with count blocks
  * Version:           1.0.0
  * Author:            UNPARALLEL Innovation, Lda
  * Author URI:        https://www.unparallel.pt
@@ -13,8 +13,8 @@ add_filter( 'block_categories_all' , function( $categories ) {
 
     // Adding a new category.
 	$categories[] = array(
-		'slug'  => 'dynamic-blocks',
-		'title' => 'Dynamic Blocks'
+		'slug'  => 'count-blocks',
+		'title' => 'Count Blocks'
 	);
 
 	return $categories;
