@@ -14,7 +14,7 @@ This plugin has the following blocks included:
 ## Usage
 ### Statistic Card
 To add a new Statistic Card, you must search for 'Count blocks' in Wordpress Editor:
-![](public/img/readme-pictures/statistic_card_search.png)
+![](public/img/readme-pictures/statistic_card_search_2.png)
 
 After that you will see something like this:
 ![](public/img/readme-pictures/statistic_card_input.png)
