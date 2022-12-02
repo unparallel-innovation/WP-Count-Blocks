@@ -1,7 +1,7 @@
-# WP Dynamic Blocks
-This repository is for the WP Dynamic Blocks plugin.
+# WP Count Blocks
+This repository is for the WP Count Blocks plugin.
 
-The WP Dynamic Blocks plugin contains dynamic blocks to show content in Wordpress pages.
+The WP Count Blocks plugin contains dynamic blocks to show content in Wordpress pages.
 
 ## Instalation
 
@@ -13,7 +13,7 @@ This plugin has the following blocks included:
 
 ## Usage
 ### Statistic Card
-To add a new Statistic Card, you must search for 'dynamic blocks' in Wordpress Editor:
+To add a new Statistic Card, you must search for 'Count blocks' in Wordpress Editor:
 ![](public/img/readme-pictures/statistic_card_search.png)
 
 After that you will see something like this:
